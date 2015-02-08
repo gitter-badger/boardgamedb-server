@@ -38,3 +38,6 @@ module.exports = (grunt) ->
 		'copy'
 		'compress'
 	]
+
+	grunt.registerTask 'test', [
+	]
